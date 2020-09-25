@@ -5,7 +5,7 @@
 <br>
 
 <h2 align = "center">
-  Desafios 05 da Maratona Full Cycle 4.0
+  5º Desafio da Maratona Full Cycle 4.0
 </h2>
 <p align = "center"> 
   Integração contínua e boas práticas com Github
